@@ -1,8 +1,8 @@
-class diamond1{
+class diamond{
 
 	public static void main(String[] args){
 
-		int row = 13;
+		int row = 19;
 		int spaces = 2;
 		char ch1 = '$';
 		char ch2 = ' ';
